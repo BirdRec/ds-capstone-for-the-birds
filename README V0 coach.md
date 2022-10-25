@@ -15,6 +15,12 @@ Data used is the [coffee quality dataset](https://github.com/jldbc/coffee-qualit
 
 - pyenv with Python: 3.9.4
 
+For you have not installed ntwork x: 
+
+```BASH
+pip install networkx
+```
+
 ### Setup
 
 Use the requirements file in this repo to create a new environment.
