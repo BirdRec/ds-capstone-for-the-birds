@@ -23,3 +23,11 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements_dev.txt
 ```
+
+### Get the data 
+
+You have to add the cornel bird data locally to your machine and move the content of the download to the data folder. 
+
+Link: https://dl.allaboutbirds.org/nabirds
+
+DO NOT CHANGE THE FOLDER STRUCTURE, KiLLS THE cOdE!
